@@ -1,1 +1,1 @@
-![Graphical user interface, application  Description automatically generated](/Users/sallam/Documents/CTD-Florida/clip_image001.png)
+![Graphical user interface, application  Description automatically generated](clip_image001.png)
