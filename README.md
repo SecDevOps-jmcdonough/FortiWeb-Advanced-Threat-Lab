@@ -4,7 +4,7 @@ This Repository contains all necessary files and documentations to get a underst
 
 ## Table of Contents
 
-1. [Initial Setup](./0_Initial_Setup/0.Initial Setup.md)
+1. [Initial Setup](./0_Initial_Setup/0_Initial_Setup.md)
 
 2. Bot detection and protection
 
