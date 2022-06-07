@@ -20,6 +20,7 @@ This Repository contains all necessary files and documentations to get a underst
 3. Anomaly detection
    - [Attack - SQL injection](./3-Anomaly_Detection_Lab/3.1_sql_injection.md)
    - [ML based Anomaly detection](./3-Anomaly_Detection_Lab/3.2_Anomaly_Detection_ML.md)
+      - [Bot Detection ML dat file](./AD_ML_dat_file)
 4. [ML based API learning & protection](./4-API_learning_Lab/4.1_API_Protection_ML.md))
 
 
