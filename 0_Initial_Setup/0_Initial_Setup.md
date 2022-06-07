@@ -126,4 +126,6 @@ All of the attacks can be performed from the Kali Linux which is already set up 
 
 RDP into the Kali linux using attackerX.cloudteamapp.com (X is the lab number assigned to you)
 
+Kali Username/Password: kali/CloudTeam
+
 Once you have confirmed let’s proceed to the next Lab.
