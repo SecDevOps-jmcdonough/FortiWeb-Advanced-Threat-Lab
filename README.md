@@ -26,4 +26,4 @@ This Repository contains all necessary files and documentations to get a underst
 
 ## Additional Resources
 
-- [Python Scripts](./Python/Scripts)
+- [Python Scripts](./Python_Scripts)
