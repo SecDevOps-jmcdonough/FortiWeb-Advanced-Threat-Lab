@@ -6,7 +6,7 @@
 
 1. Connect to Fortiweb by using the IP address corresponding to the Lab number assigned to you.
 
-​		https://ipaddress:8443
+​		https://ipaddress:8443 or https://juiceshopX.cloudteamapp.com:8443 (X is your assigned Lab number)
 
 ![image-20220602174444796](image-20220602174444796.png)
 
