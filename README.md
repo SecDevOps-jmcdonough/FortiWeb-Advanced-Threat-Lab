@@ -6,11 +6,10 @@ This Repository contains all necessary files and documentations to get a underst
 
 1. [Initial Setup](./0_Initial_Setup/0_Initial_Setup.md)
 2. Bot detection and protection
-
    - [Attack-1](./1&2_Bot_Lab/1.1_bot_attack.md)
    - [Biometrics based Bot detection](./1&2_Bot_Lab/1.2_Biometrics_based_bot_detection.md)
    - [Attack-2](./1&2_Bot_Lab/2.1_bot_attack_ml.md)
-   - [ML based Bot detection](./1&2_Bot_Lab/2.2-Bot_Detection_ML.md)
+   - [ML based Bot detection](./1&2_Bot_Lab/2.2_Bot_Detection_ML.md)
      - [Bot Detection ML dat file](./BotDetection_ML_dat_file)
 
 3. Anomaly detection
