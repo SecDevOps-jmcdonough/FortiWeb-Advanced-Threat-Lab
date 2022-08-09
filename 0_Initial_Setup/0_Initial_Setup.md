@@ -118,7 +118,8 @@ Navigate to Server Policy, edit the existing policy and Turn the Radio button fo
 
 Now for Machine Learning to collect the samples we would need a domain name for this Web application. The Domain names are already configured resolving to the public IP address of the Fortiweb. 
 
-The domain name for your application would be http://juiceshopX.cloudteamapp.com:3000 (X is the Lab number assigned to you)
+```
+The domain name for your application would be http://juiceshopX.cloudteamapp.com:3000 (*X is the Lab number assigned to you*)
 
 Make sure you can reach to your juice shop through FQDN as well.
 
@@ -129,3 +130,5 @@ RDP into the Kali linux using attackerX.cloudteamapp.com (X is the lab number as
 Kali Username/Password: kali/CloudTeam
 
 Once you have confirmed let’s proceed to the next Lab.
+
+```
