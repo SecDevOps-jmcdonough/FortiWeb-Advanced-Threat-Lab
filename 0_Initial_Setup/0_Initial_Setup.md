@@ -119,7 +119,11 @@ Navigate to Server Policy, edit the existing policy and Turn the Radio button fo
 Now for Machine Learning to collect the samples we would need a domain name for this Web application. The Domain names are already configured resolving to the public IP address of the Fortiweb. 
 
 ```
+<<<<<<< HEAD
 Markup : *The domain name for your application would be http://juiceshopX.cloudteamapp.com:3000 (**X is the Lab number assigned to you**)
+=======
+The domain name for your application would be http://juiceshopX.cloudteamapp.com:3000 (**X is the Lab number assigned to you**)
+>>>>>>> ee048efe6b290679fcc4d11b3087c9e798e8734d
 
 Make sure you can reach to your juice shop through FQDN as well.
 
